@@ -42,3 +42,4 @@ var document = [
     ]
   }
 ]
+aDocument[0].children[0]

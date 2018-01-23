@@ -1,4 +1,3 @@
-adocument[0]
 var document = [
   {
     tagName: "div",
@@ -42,4 +41,3 @@ var document = [
     ]
   }
 ]
-aDocument[0].children[0]

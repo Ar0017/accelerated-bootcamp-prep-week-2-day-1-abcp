@@ -1,4 +1,3 @@
-adocument[0]
 var document = [
   {
     tagName: "div",
